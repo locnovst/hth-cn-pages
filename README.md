@@ -1,2 +1,14 @@
 # hth-cn-pages
-HTML page archive and documentation
+
+独立页面发布说明
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
